@@ -1,8 +1,8 @@
 package main
 
 import (
-	"awesomeProject/City"
-	"awesomeProject/Digit"
+	"awesomeProject/pkg/City"
+	"awesomeProject/pkg/Digit"
 	"fmt"
 	"math/rand"
 	"strings"

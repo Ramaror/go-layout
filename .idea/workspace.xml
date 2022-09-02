@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677c2c7d-8c37-4a08-a650-e14708c10329" name="Changes" comment="1.01" />
+    <list default="true" id="677c2c7d-8c37-4a08-a650-e14708c10329" name="Changes" comment="1.01">
+      <change beforePath="$PROJECT_DIR$/City/city.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/City/city.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digit/digit.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/Digit/digit.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.01" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
